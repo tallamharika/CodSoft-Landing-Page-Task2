@@ -81,4 +81,4 @@ https://github.com/tallamharika/CodSoft-Landing-Page-Task2
 
 Landing page successfully created with header, features section and footer.
 
-![Landing Page Output](images/page_landing.png)
+![Landing Page Output](Screenshot (967).png)
