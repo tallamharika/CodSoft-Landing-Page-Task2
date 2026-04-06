@@ -80,4 +80,8 @@ https://github.com/tallamharika/CodSoft-Landing-Page-Task2
 ### 📸 Output
 
 Landing page successfully created with header, features section and footer.
-![Landing Page Output](https://raw.githubusercontent.com/tallamharika/CodSoft-Landing-Page-Task2/main/Screenshot.png) this is code
+![Landing Page Output](https://github.com/tallamharika/CodSoft-Landing-Page-Task2/blob/main/Screenshot.png) this is code
+### 🚀 Live Link
+
+🔗 **View Live Website:**  
+https://tallamharika.github.io/CodSoft-Landing-Page-Task2/
