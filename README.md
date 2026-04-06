@@ -1,4 +1,4 @@
-# CodSoft-Landing-Page-Task2
+ fix this # CodSoft-Landing-Page-Task2
 
 ### 📌 Project Title
 
@@ -14,8 +14,8 @@ This project is created as part of the CodSoft Web Development Internship (Level
 
 ### 👩‍💻 Intern Details
 
-Name: Tallam Harika  
-Intern ID: BY25RY275573  
+Name:Tallam Harika 
+Intern ID:BY25RY275573
 Domain: Web Development  
 Organization: CodSoft  
 
@@ -73,7 +73,7 @@ To create a visually appealing landing page as part of the CodSoft Internship Le
 
 GitHub Pages Live Site:
 
-https://tallamharika.github.io/CodSoft-Landing-Page-Task2/
+https://github.com/tallamharika/CodSoft-Landing-Page-Task2
 
 ---
 
@@ -81,4 +81,4 @@ https://tallamharika.github.io/CodSoft-Landing-Page-Task2/
 
 Landing page successfully created with header, features section and footer.
 
-![Landing Page Output](Screenshot (967).png)
+![Landing Page Output](Screenshot (967).png) this is code
