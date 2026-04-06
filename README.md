@@ -73,7 +73,7 @@ To create a visually appealing landing page as part of the CodSoft Internship Le
 
 GitHub Pages Live Site:
 
-https://github.com/tallamharika/CodSoft-Landing-Page-Task2
+https://tallamharika.github.io/CodSoft-Landing-Page-Task2/
 
 ---
 
